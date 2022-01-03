@@ -57,3 +57,18 @@ function killer(suspectInfo, dead) {
 ```
 
 Other code samples can be seen in [github profile](https://github.com/vladshcherbin).
+
+## Work experience
+
+- Freelance, since 2013
+- Soda, 2021
+
+## Education
+
+- Belarusian State University of Informatics and Radioelectronics, Electronic engineer
+- Numerous articles, videos, cources during work and free time
+
+## Languages
+
+- Russian - Native
+- English - Intermediate/Upper-intermediate
