@@ -14,3 +14,33 @@ I'm a freelance developer who loves to create things. I've being doing this for 
 I love trying new technologies, value simplisity and I'm a fan of functional programming. One day I'd love to take part in development of a game and a mobile react-native application.
 
 Tired of being a solo freelancer and looking for a good team at the moment.
+
+## Skills
+
+My current stack:
+
+- Node.js
+- Koa
+- PostgreSQL
+- GraphQL
+- React
+- Svelte
+- Figma
+
+Additional:
+
+- Git
+- Typescript
+- HTML, CSS
+- SASS
+- Jest
+- Rollup
+
+Previously used stack:
+
+- PHP
+- Elixir
+- Meteor
+- MySQL
+- Webpack, Gulp
+- Adobe Illustrator, Photoshop
