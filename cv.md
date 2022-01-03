@@ -44,3 +44,16 @@ Previously used stack:
 - MySQL
 - Webpack, Gulp
 - Adobe Illustrator, Photoshop
+
+## Code sample
+
+Random codewars task code:
+
+```js
+function killer(suspectInfo, dead) {
+  return Object.entries(suspectInfo)
+    .find(([, seen]) => dead.every((corpse) => seen.includes(corpse)))[0]
+}
+```
+
+Other code samples can be seen in [github profile](https://github.com/vladshcherbin).
